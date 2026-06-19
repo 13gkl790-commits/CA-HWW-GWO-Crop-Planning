@@ -60,7 +60,7 @@ figures/    Figures used in the manuscript
 2. Add the project folder and all subfolders to the MATLAB path.
 3. Run the scripts located in the `reproduce` folder.
 4. Tables and figures reported in the manuscript can be regenerated automatically.
-
+Random seeds and parameter settings used in the manuscript experiments are provided within the reproduction scripts.
 ---
 
 ## Associated Manuscript
