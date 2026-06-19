@@ -63,8 +63,6 @@ figures/    Figures used in the manuscript
 
 ---
 
-## Citation
-
 ## Associated Manuscript
 
 This repository accompanies the manuscript:
