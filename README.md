@@ -48,13 +48,13 @@ Crop parameters, resource constraints, and weather inputs are provided within `l
 ```text
 src/        MATLAB source code
 reproduce/  Scripts used to reproduce manuscript results
-results/    Output files and result tables
+result/    Output files and result tables
 figures/    Figures used in the manuscript
 ```
 
 ---
 
-## Reproducing Results
+## Reproducing Result
 
 1. Open MATLAB.
 2. Add the project folder and all subfolders to the MATLAB path.
